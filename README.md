@@ -1,1 +1,1 @@
-### :interrobang: :speech_balloon: This application is a Quiz platform developed using React, Redux, react-router-dom and axios technologies. The application provides the user with the ability to take quizzes on a variety of topics.
+### This application is a Quiz platform developed using React, Redux, react-router-dom and axios technologies. The application provides the user with the ability to take quizzes on a variety of topics.
